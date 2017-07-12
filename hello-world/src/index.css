@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.App-logo {
+  border-radius: 50%;
+}
+
+.click-button {
+  height: 100px;
+  width: 200px;
+  font-size: 20px;
+  background-color: aqua;
+  border: 2px solid purple;
+  color: purple;
+  font-weight: 600;
+}
+
+.click-button:hover {
+  background-color: yellow;
+}
+.counts {
+  font-size: 30px;
+  font-weight: bold;
+  color: purple;
+  margin: 20px;
+}
