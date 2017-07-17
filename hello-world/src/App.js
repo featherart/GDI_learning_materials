@@ -1,8 +1,8 @@
-import React from 'react';
+import React, { Component } from 'react';
 import logo from './ryan.jpg';
 import './App.css';
 
-class App extends React.Component {
+class App extends React {
   constructor(props) {
     super(props)
     this.state = {
